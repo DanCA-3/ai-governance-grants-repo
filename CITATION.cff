@@ -3,8 +3,8 @@ title: "AI Governance Grants Explorer"
 message: "If you use this repository, please cite it as below."
 type: dataset
 authors:
-  - family-names: Your
-    given-names: Name
+  - family-names: Cruse
+    given-names: Daniel
 version: "v1.0.0"
 date-released: "2025-08-28"
 keywords:
