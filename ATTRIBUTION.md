@@ -8,4 +8,4 @@ This repository builds on data published by **Open Philanthropy** and is used un
 - Note: Do **not** use Open Philanthropy's logo or trademarks without permission.
 - This project is **not affiliated** with Open Philanthropy.
 
-Edits, cleaning, analysis code, and documentation in this repository are © 2025 Your Name. See `LICENSE` (code) and `LICENSE-DATA` (data) for details.
+Edits, cleaning, analysis code, and documentation in this repository are © 2025 Daniel Cruse. See `LICENSE` (code) and `LICENSE-DATA` (data) for details.
