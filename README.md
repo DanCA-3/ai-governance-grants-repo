@@ -27,7 +27,7 @@ Outputs write to `data/openphil_grants_report/` by default (Excel + CSVs + PNGs)
 
 ## Attribution
 Contains information © Open Philanthropy, used under **CC BY-NC 4.0**.  
-Edits, analysis, and visualizations © 2025 Your Name.
+Edits, analysis, and visualizations © 2025 Daniel Cruse.
 
 See **ATTRIBUTION.md** and **LICENSE-DATA** for details.
 
