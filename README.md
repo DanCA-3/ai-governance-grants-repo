@@ -2,6 +2,9 @@
 
 Public, non-commercial repository aggregating and analyzing Open Philanthropy grants with a focus on AI governance / safety.
 
+[![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
+[![Data License: CC BY-NC 4.0](https://img.shields.io/badge/Data-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE-DATA)
+
 > **License summary**  
 > - **Data** (including derived CSVs): **CC BY-NC 4.0** (attribution + non-commercial).  
 > - **Code** (`/analysis`): **MIT**.  
@@ -11,7 +14,7 @@ Public, non-commercial repository aggregating and analyzing Open Philanthropy gr
 - `/analysis/OpenPhil_Grants_Toolkit.py` — robust cleaner + analyzer (command-line & notebook-friendly).
 - `/derived/` — publishable AI-focused extracts (CSV).
 - `/charts/` — a couple of example figures.
-- `/data/` — (empty) add `OpenPhilGrants.csv` here if you want the repo to include the raw export.
+- `/data/` — contains raw CSV add `OpenPhilGrants.csv` here if you want the repo to include the raw export.
 
 ## Quickstart
 ```bash
