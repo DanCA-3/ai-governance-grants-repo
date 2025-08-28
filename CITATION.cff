@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "AI Governance Grants Explorer"
+message: "If you use this repository, please cite it as below."
+type: dataset
+authors:
+  - family-names: Your
+    given-names: Name
+version: "v1.0.0"
+date-released: "2025-08-28"
+keywords:
+  - AI governance
+  - grants
+  - philanthropy
+license: "CC-BY-NC-4.0"
+repository-code: "https://github.com/your/repo"
